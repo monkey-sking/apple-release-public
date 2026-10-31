@@ -1,7 +1,7 @@
 # Apple Release
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/commits/main) [![License](https://img.shields.io/github/license/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/blob/main/LICENSE) [![Language](https://img.shields.io/github/languages/top/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/search?l=)
 <!-- badges:end -->
 
 Reusable shell helpers for Apple signing, provisioning, package verification,
