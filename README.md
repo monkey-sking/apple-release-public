@@ -1,5 +1,9 @@
 # Apple Release
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/apple-release-public?style=flat-square)](https://github.com/monkey-sking/apple-release-public/commits/main)
+<!-- badges:end -->
+
 Reusable shell helpers for Apple signing, provisioning, package verification,
 build-cache layout, TestFlight and Developer ID release workflows.
 
